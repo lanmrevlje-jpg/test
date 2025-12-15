@@ -1,8 +1,8 @@
 # Opis
 To je kratek opis mojega github profila.
 
-Kaj sem se naučil:
--Osnove Git
+Kaj sem se naučil:<br>
+-Osnove Git<br>
 -Urejanje README
 
 # Povezave
