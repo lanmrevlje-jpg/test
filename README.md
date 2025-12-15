@@ -5,6 +5,6 @@ Kaj sem se naučil:
 -Osnove Git
 -Urejanje README
 
-#Povezave
+# Povezave
 <hr>
 Kviz: https://github.com/lanmrevlje-jpg/Kviz 
